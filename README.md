@@ -27,7 +27,7 @@ Below is an exemple of the core HTML bock used in the gallery.
 
 ## Tech Stack
 
-- HTML5 (No external libraries or frameworks)
+- **HTML5** (No external libraries or frameworks)
 
 ## Getting Started
 
