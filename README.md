@@ -20,7 +20,7 @@ Below is an exemple of the core HTML bock used in the gallery.
 
 ```HTML
 <figure>
-    <img src="./assets/p1.jpeg" alt="Lewis Hamilton's photo" width="200">
+    <img src="./images/p1.jpeg" alt="Lewis Hamilton's photo" width="200">
     <figcaption>Lewis Hamilton</figcaption>
 </figure>
 ```
